@@ -67,7 +67,6 @@ theme:
         name: Switch to light mode
   font:
     text:  Hind Siliguri
-    size: 20px
 
     code: Fira Code
   favicon: assets/favicon.png
