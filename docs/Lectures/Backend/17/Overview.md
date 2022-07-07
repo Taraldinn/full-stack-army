@@ -955,13 +955,7 @@ module.exports = router;
 
 এরপরের ক্লাসে ডাটাবেইজ নিয়ে আলোচনা হবে। তার জন্য আপনাদের একটা টাস্ক করে আসতে হবে। আপনারা [mongodb docs](https://www.mongodb.com/docs/manual/crud/) এ গিয়ে Insert documents, Query documents, Update documents and Delete documents এগুলো স্টাডি করবেন হাতে কলমে।
 
-## Resource for this lecture
 
-এই লেকচারের সমস্ত রিসোর্স [লেকচার ১৭](../../resources/lecture-17/README.md) এ পাবেন।
-
-## Source Code
-
-এই লেকচারের সোর্স কোডসমূহ এই [লিংক](../../src/raffle-draw/) এ পাবেন।
 
 ## AUTHOR
 

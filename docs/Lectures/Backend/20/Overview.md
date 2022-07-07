@@ -436,13 +436,6 @@ mongoose
 
 আজ মোটামুটি Mongoose দিয়ে কিভাবে ডাটাবেজ কানেক্ট করা যায়, কিভাবে স্কিমা তৈরি করতে হয়, কিভাবে মডেল তৈরি করতে হয় তার একটা মোটামুটি ধারণা আমরা পেলাম। ব্যাকএন্ডের পূর্বের ক্লাসের এটাই শেষ ক্লাস। পরবর্তীতে আমরা আবার আমাদের অ্যাটেন্ডেন্স মডেলের প্রজেক্টে ফিরে যাবে। আপনাদের জন্য একটা টাস্ক হলো, [MongooseJs Docs](https://mongoosejs.com/docs/) থেকে আপনারা Schemas, SchemaTypes, Connections, Models, Documents, Subdocuments, Queries and Validation স্টাডি করবেন এবং প্র্যাকটিস করবেন।
 
-## Resource for this lecture
-
-এই লেকচারের সমস্ত রিসোর্স [লেকচার ২০](../../resources/lecture-20/README.md) এ পাবেন।
-
-## Source Code
-
-এই লেকচারের সোর্স কোডসমূহ এই [লিংক](../../src/mongo-demo/) এ পাবেন।
 
 ## AUTHOR
 

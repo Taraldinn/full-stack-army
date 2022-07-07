@@ -656,13 +656,7 @@ connectDB('mongodb://localhost:27017/attendance-db')
 
 রিসেট পাসওয়ার্ডের কাজও আমরা নেক্সট ক্লাসে করবো।
 
-## Resource for this lecture
 
-এই লেকচারের সমস্ত রিসোর্স [লেকচার ২২](../../resources/lecture-22/README.md) এ পাবেন।
-
-## Source Code
-
-এই লেকচারের সোর্স কোডসমূহ এই [লিংক](../../src/lecture-22/) এ পাবেন।
 
 ## AUTHOR
 

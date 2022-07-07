@@ -216,13 +216,6 @@ REQUEST -> MIDDLEWARE[logger, body parser, file parser, user ip, block ip, authe
 
 পরবর্তী ক্লাস বুঝতে হলে এক্সপ্রেস সম্পর্কে বেসিক একটা ধারণা থাকা জরুরী। এই ধারণার জন্য স্ট্যাক লার্নার চ্যানেলে একটা ছোট প্লেলিস্ট আছে। যার নাম হচ্ছে [Express Js Crash Course In Bangla](https://youtube.com/playlist?list=PL_XxuZqN0xVDm9HkiP4h_76qNBZix6XME)। আপনারা এই প্লেলিস্ট শেষ করলে এক্সপ্রেস সম্পর্কে একটা বেসিক ধারণা পাবেন। সবাইকে এই প্লেলিস্ট শেষ করেই পরবর্তী লেকচার দেখার জন্য পরামর্শ দেয়া হচ্ছে।
 
-## Resource for this lecture
-
-এই লেকচারের সমস্ত রিসোর্স [লেকচার ১৫](../../resources/lecture-15/README.md) এ পাবেন।
-
-## Source Code
-
-এই লেকচারের সোর্স কোডসমূহ এই [লিংক](../../src/lecture-15/) এ পাবেন।
 
 ## AUTHOR
 
